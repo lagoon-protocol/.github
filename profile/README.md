@@ -1,3 +1,3 @@
 # Lagoon Protocol
 
-* Decentralized Trading Protocol for SUI
+Decentralized Trading Protocol for SUI
